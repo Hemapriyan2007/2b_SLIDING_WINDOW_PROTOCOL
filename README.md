@@ -8,9 +8,9 @@
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
-Developed by : SHAIK HAZEEDMASTHAN
+Developed by : HEMAPRIYAN.P
 
-Reg no : 212224040304
+Reg no : 212224040116
 
 
 Client.py
